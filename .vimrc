@@ -84,3 +84,6 @@ filetype plugin on
 
 " 像bash那样补全
 set wildmode=longest:full
+
+" 搜索时区分大小写
+set noic
